@@ -1,4 +1,2 @@
 # datasciencecoursera
 MyFirstRepo
-
-demo
